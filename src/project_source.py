@@ -125,7 +125,11 @@ def main():
     )
     selected = []
     source_receipts = []
+    market_bindings = json.loads(
+        (ROOT / "data/market_bindings.json").read_text(encoding="utf-8")
+    )
     for item in receipts:
+        market_map = market_bindings[item["marketing_year"]]
         source = args.private_dir / item["file"]
         assert hashlib.sha256(source.read_bytes()).hexdigest() == item["sha256"]
         counts = Counter()
@@ -147,7 +151,7 @@ def main():
                         "41-4-34",
                     ]
                     continue
-                if vals[2] == "Upland" and vals[3] in MARKETS:
+                if vals[2] == "Upland" and vals[3] in set(market_map.values()):
                     key = (vals[1], vals[3])
                     value = vals[6]
                     if key in base_lookup and base_lookup[key] != value:
@@ -165,7 +169,7 @@ def main():
                 reason = []
                 if vals[2] != "Upland":
                     reason.append("not_upland")
-                if vals[3] not in MARKETS:
+                if vals[3] not in market_map:
                     reason.append("unexpected_market")
                 formulas = [v["ref"] for v in cells.values() if v["formula"]]
                 if formulas:
@@ -186,7 +190,7 @@ def main():
                 if GRADES[tuple(vals[4:7])] == "base" and not reason:
                     from decimal import Decimal
 
-                    key = (vals[1], vals[3])
+                    key = (vals[1], market_map[vals[3]])
                     assert key in base_lookup and key not in base_conflicts, (
                         "unavailable_headline_base",
                         key,

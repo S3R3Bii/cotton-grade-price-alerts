@@ -1,0 +1,29 @@
+{
+  "2022-2023": {
+    "Southeast": "Southeast",
+    "North Delta": "North Delta",
+    "South Delta": "South Delta",
+    "Desert Southwest": "Desert SW",
+    "San Joaquin Valley": "SJ Valley",
+    "East Texas - Oklahoma": "East TX-OK",
+    "West Texas": "West Texas"
+  },
+  "2023-2024": {
+    "Southeast": "Southeast",
+    "North Delta": "North Delta",
+    "South Delta": "South Delta",
+    "Desert Southwest": "Desert SW",
+    "San Joaquin Valley": "SJ Valley",
+    "East Texas - South Texas": "East TX-South TX",
+    "West Texas - Kansas - Oklahoma": "West TX-KS-OK"
+  },
+  "2024-2025": {
+    "Southeast": "Southeast",
+    "North Delta": "North Delta",
+    "South Delta": "South Delta",
+    "Desert Southwest": "Desert SW",
+    "San Joaquin Valley": "SJ Valley",
+    "East Texas - South Texas": "East TX-South TX",
+    "West Texas - Kansas - Oklahoma": "West TX-KS-OK"
+  }
+}
