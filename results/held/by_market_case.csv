@@ -1,0 +1,1765 @@
+marketing_year,market,rule,threshold,expansion,shock,identity_mode,cases,tp,fp,tn,fn,abstain,coverage,conditional_precision,conditional_recall_among_emitted
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/10,missing_base,251,229,0,0,22,0,1,1,229/251
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/10,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/20,missing_base,251,9,0,0,242,0,1,1,9/251
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/20,1,0,changed_quality,251,0,22,229,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/20,1,0,normal,251,0,22,229,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/50,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/20,1,1/50,normal,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/10,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Desert Southwest,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/10,missing_base,251,54,0,0,197,0,1,1,54/251
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/20,changed_quality,251,23,0,0,228,0,1,1,23/251
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/20,normal,251,23,0,0,228,0,1,1,23/251
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/10,changed_quality,251,73,0,0,178,0,1,1,73/251
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/10,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/10,normal,251,73,0,0,178,0,1,1,73/251
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/20,missing_base,251,201,0,0,50,0,1,1,201/251
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,0,changed_quality,251,0,202,49,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,0,normal,251,0,202,49,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/50,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/20,1,1/50,normal,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/10,missing_base,251,30,0,0,221,0,1,1,30/251
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/20,missing_base,251,248,0,0,3,0,1,1,248/251
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/50,changed_quality,251,229,0,0,22,0,1,1,229/251
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,-1/50,normal,251,229,0,0,22,0,1,1,229/251
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,East Texas - South Texas,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/20,missing_base,251,165,0,0,86,0,1,1,165/251
+2024-2025,North Delta,grade_blind,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/50,changed_quality,251,175,0,0,76,0,1,1,175/251
+2024-2025,North Delta,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,-1/50,normal,251,175,0,0,76,0,1,1,175/251
+2024-2025,North Delta,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,-1/10,missing_base,251,3,0,0,248,0,1,1,3/251
+2024-2025,North Delta,grade_blind,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,North Delta,grade_blind,1/20,1,-1/20,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,North Delta,grade_blind,1/20,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,North Delta,grade_blind,1/20,1,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,1,-1/50,missing_base,251,0,106,145,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,1,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/20,1,1/50,changed_quality,251,0,196,55,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/20,1,1/50,normal,251,0,196,55,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,-1/20,changed_quality,251,86,0,0,165,0,1,1,86/251
+2024-2025,North Delta,grade_blind,1/50,1,-1/20,missing_base,251,52,0,0,199,0,1,1,52/251
+2024-2025,North Delta,grade_blind,1/50,1,-1/20,normal,251,86,0,0,165,0,1,1,86/251
+2024-2025,North Delta,grade_blind,1/50,1,-1/50,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,North Delta,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,-1/50,normal,251,0,0,0,251,0,1,,0
+2024-2025,North Delta,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,North Delta,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,North Delta,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,North Delta,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,North Delta,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/10,changed_quality,251,154,0,0,97,0,1,1,154/251
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/10,normal,251,154,0,0,97,0,1,1,154/251
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/10,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/10,normal,251,0,0,0,251,0,1,,0
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/20,changed_quality,251,15,0,0,236,0,1,1,15/251
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/20,normal,251,15,0,0,236,0,1,1,15/251
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/50,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,-1/50,normal,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/50,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/20,1,1/50,normal,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/10,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/10,normal,251,0,0,0,251,0,1,,0
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,San Joaquin Valley,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/20,missing_base,251,169,0,0,82,0,1,1,169/251
+2024-2025,South Delta,grade_blind,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/50,changed_quality,251,177,0,0,74,0,1,1,177/251
+2024-2025,South Delta,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,-1/50,normal,251,177,0,0,74,0,1,1,177/251
+2024-2025,South Delta,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,-1/10,missing_base,251,55,0,0,196,0,1,1,55/251
+2024-2025,South Delta,grade_blind,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,South Delta,grade_blind,1/20,1,-1/20,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,South Delta,grade_blind,1/20,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,South Delta,grade_blind,1/20,1,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,1,-1/50,missing_base,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,1,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/20,1,1/50,changed_quality,251,0,177,74,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/20,1,1/50,normal,251,0,177,74,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,-1/20,changed_quality,251,82,0,0,169,0,1,1,82/251
+2024-2025,South Delta,grade_blind,1/50,1,-1/20,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,South Delta,grade_blind,1/50,1,-1/20,normal,251,82,0,0,169,0,1,1,82/251
+2024-2025,South Delta,grade_blind,1/50,1,-1/50,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,South Delta,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,-1/50,normal,251,0,0,0,251,0,1,,0
+2024-2025,South Delta,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,South Delta,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,South Delta,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,South Delta,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,South Delta,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,-1/20,changed_quality,251,214,0,0,37,0,1,1,214/251
+2024-2025,Southeast,grade_blind,1/100,1,-1/20,missing_base,251,176,0,0,75,0,1,1,176/251
+2024-2025,Southeast,grade_blind,1/100,1,-1/20,normal,251,214,0,0,37,0,1,1,214/251
+2024-2025,Southeast,grade_blind,1/100,1,-1/50,changed_quality,251,176,0,0,75,0,1,1,176/251
+2024-2025,Southeast,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,-1/50,normal,251,176,0,0,75,0,1,1,176/251
+2024-2025,Southeast,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,-1/10,missing_base,251,27,0,0,224,0,1,1,27/251
+2024-2025,Southeast,grade_blind,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,Southeast,grade_blind,1/20,1,-1/20,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,Southeast,grade_blind,1/20,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,Southeast,grade_blind,1/20,1,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,1,-1/50,missing_base,251,0,143,108,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,1,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/20,1,1/50,changed_quality,251,0,185,66,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/20,1,1/50,normal,251,0,185,66,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,-1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,-1/20,changed_quality,251,75,0,0,176,0,1,1,75/251
+2024-2025,Southeast,grade_blind,1/50,1,-1/20,missing_base,251,129,0,0,122,0,1,1,129/251
+2024-2025,Southeast,grade_blind,1/50,1,-1/20,normal,251,75,0,0,176,0,1,1,75/251
+2024-2025,Southeast,grade_blind,1/50,1,-1/50,changed_quality,251,87,0,0,164,0,1,1,87/251
+2024-2025,Southeast,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,-1/50,normal,251,87,0,0,164,0,1,1,87/251
+2024-2025,Southeast,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,Southeast,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,Southeast,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,Southeast,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,Southeast,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/10,missing_base,251,141,0,0,110,0,1,1,141/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/20,changed_quality,251,13,0,0,238,0,1,1,13/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/20,normal,251,13,0,0,238,0,1,1,13/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/10,changed_quality,251,223,0,0,28,0,1,1,223/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/10,missing_base,251,0,0,0,251,0,1,,0
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/10,normal,251,223,0,0,28,0,1,1,223/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/20,missing_base,251,92,0,0,159,0,1,1,92/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/50,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,0,changed_quality,251,0,110,141,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,0,normal,251,0,110,141,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/50,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/50,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/20,1,1/50,normal,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,0,changed_quality,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/10,missing_base,251,71,0,0,180,0,1,1,71/251
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/20,changed_quality,251,0,0,0,251,0,1,,0
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/20,normal,251,0,0,0,251,0,1,,0
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,0,changed_quality,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,0,missing_base,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,0,normal,251,0,251,0,0,0,1,0,
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/10,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/10,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/20,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/20,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/50,changed_quality,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/50,missing_base,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,grade_blind,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/100,1,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,0,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,-1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/20,1,1/50,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,0,1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,-1/50,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,0,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,0,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,0,normal,251,0,0,251,0,0,1,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/10,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/10,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/10,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/20,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/20,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/20,normal,251,251,0,0,0,0,1,1,1
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/50,changed_quality,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/50,missing_base,251,0,0,0,0,251,0,,
+2024-2025,West Texas - Kansas - Oklahoma,quality_matched,1/50,1,1/50,normal,251,251,0,0,0,0,1,1,1

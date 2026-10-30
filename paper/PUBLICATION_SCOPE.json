@@ -1,0 +1,12 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "authority": "James authorized reviewed independent program manuscripts on their project repositories; formal-publication projects remain private.",
+  "public_files": {
+    "paper/main.tex": "7d7209ddbf18ccb6047953082612431bac79797c7f190b2b1e984523e5453bbf",
+    "paper/manuscript.pdf": "422f8ce1e1b468529f66b5e65058017a2e25e53991a376a169bf5187d9cfa958",
+    "paper/images/alert_errors.pdf": "b1cc18b97febe7cc76349e90e476853caf0025c53302ab6a6a7faceae2b6eb67",
+    "paper/images/composition_effects.pdf": "7484a94936043f5fb8675866d3a888099884ff2366d7525cf133d054b6decad3",
+    "paper/images/identity_coverage.pdf": "90411be21d5c2e024778a6da5d9c0cb40227dc12a2c736f40d6088f7c64f764b"
+  }
+}

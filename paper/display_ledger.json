@@ -1,0 +1,1054 @@
+[
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "fp"
+    },
+    "text": "1,757",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/held/summary.json",
+      "field": "paired_quote_days"
+    },
+    "text": "1,757",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "raw_projected_rows"
+    },
+    "text": "12,032",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "key_groups"
+    },
+    "text": "10,528",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "paired_quote_days"
+    },
+    "text": "5,264",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/source_verification.json",
+      "field": "checks"
+    },
+    "text": "360,999",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_verification.json",
+      "field": "checks"
+    },
+    "text": "99,416",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/summary.json",
+      "field": "paired_quote_days"
+    },
+    "text": "1,002",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/summary.json",
+      "field": "authored_cases"
+    },
+    "text": "252,504",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/verification.json",
+      "field": "checks"
+    },
+    "text": "3,584,316",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/held/summary.json",
+      "field": "authored_cases"
+    },
+    "text": "442,764",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/held/verification.json",
+      "field": "checks"
+    },
+    "text": "6,284,563",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "fn"
+    },
+    "text": "2,202",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "tp"
+    },
+    "text": "5,011",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "fp"
+    },
+    "text": "1,002",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "tn"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "fn"
+    },
+    "text": "1,001",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "conditional_precision"
+    },
+    "text": "83.34",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "83.35",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "tp"
+    },
+    "text": "6,012",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "fp"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "tn"
+    },
+    "text": "1,002",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "fn"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "conditional_precision"
+    },
+    "text": "100.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "100.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "tp"
+    },
+    "text": "5,010",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "fp"
+    },
+    "text": "224",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "tn"
+    },
+    "text": "778",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "fn"
+    },
+    "text": "1,002",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "conditional_precision"
+    },
+    "text": "95.72",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "83.33",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "tp"
+    },
+    "text": "6,012",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "fp"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "tn"
+    },
+    "text": "1,002",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "fn"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "conditional_precision"
+    },
+    "text": "100.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "100.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "tp"
+    },
+    "text": "3,006",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "fp"
+    },
+    "text": "16",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "tn"
+    },
+    "text": "2,990",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "fn"
+    },
+    "text": "1,002",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "conditional_precision"
+    },
+    "text": "99.47",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "75.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "tp"
+    },
+    "text": "4,008",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "fp"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "tn"
+    },
+    "text": "3,006",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "fn"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "conditional_precision"
+    },
+    "text": "100.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "100.00",
+    "page": 2,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "tp"
+    },
+    "text": "9,466",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "fp"
+    },
+    "text": "1,757",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "tn"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "fn"
+    },
+    "text": "1,076",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "conditional_precision"
+    },
+    "text": "84.34",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/100",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "89.79",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "tp"
+    },
+    "text": "10,542",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "fp"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "tn"
+    },
+    "text": "1,757",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "fn"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "conditional_precision"
+    },
+    "text": "100.00",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/100",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "100.00",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "tp"
+    },
+    "text": "8,340",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "fp"
+    },
+    "text": "1,757",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "tn"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "fn"
+    },
+    "text": "2,202",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "conditional_precision"
+    },
+    "text": "82.60",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/50",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "79.11",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "tp"
+    },
+    "text": "10,542",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "fp"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "tn"
+    },
+    "text": "1,757",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "fn"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "conditional_precision"
+    },
+    "text": "100.00",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/50",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "100.00",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "tp"
+    },
+    "text": "4,829",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "fp"
+    },
+    "text": "2,398",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "tn"
+    },
+    "text": "2,873",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "fn"
+    },
+    "text": "2,199",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "conditional_precision"
+    },
+    "text": "66.82",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "grade_blind",
+      "threshold": "1/20",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "68.71",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "tp"
+    },
+    "text": "7,028",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "fp"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "tn"
+    },
+    "text": "5,271",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "fn"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "conditional_precision"
+    },
+    "text": "100.00",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "rule": "quality_matched",
+      "threshold": "1/20",
+      "field": "conditional_recall_among_emitted"
+    },
+    "text": "100.00",
+    "page": 3,
+    "format": ".2f"
+  },
+  {
+    "query": {
+      "kind": "coverage_days",
+      "year": "2022-2023"
+    },
+    "text": "249",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage_total",
+      "year": "2022-2023"
+    },
+    "text": "1,743",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage_days",
+      "year": "2023-2024"
+    },
+    "text": "252",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage_total",
+      "year": "2023-2024"
+    },
+    "text": "1,764",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage_days",
+      "year": "2024-2025"
+    },
+    "text": "251",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage_total",
+      "year": "2024-2025"
+    },
+    "text": "1,757",
+    "page": 1,
+    "format": ",d"
+  }
+]

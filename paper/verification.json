@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "pages": 6,
+  "source_bound_displays": 91,
+  "checks": 197,
+  "pdf_sha256": "422f8ce1e1b468529f66b5e65058017a2e25e53991a376a169bf5187d9cfa958",
+  "scope": "Finite source arithmetic, actual extracted PDF quantities, required qualifications and figure-byte identity; all rendered pages require separate visual inspection"
+}
