@@ -1,6 +1,6 @@
 {
-  "timestamp_utc": "2026-10-30T18:45:46.449538+00:00",
-  "version": "Local complete artifact candidate before exact remote CI",
+  "timestamp_utc": "2026-10-30T18:47:52.588332+00:00",
+  "version": "Local ready candidate before exact remote CI",
   "status": "LOCAL_ACCEPTANCE_PASS_REMOTE_RELEASE_PENDING",
   "grade": 4,
   "criteria": {
@@ -30,8 +30,9 @@
       "evidence": "28 finite fixtures and exact CLI authored examples; unavailable identity distinct from negative decision"
     },
     "replay": {
-      "state": "unknown",
-      "evidence": "Complete committed package replay pending this checkpoint"
+      "state": "pass",
+      "grade": 4,
+      "evidence": "CPython 3.10.11 and 3.12.14: exact comparison of 10011319 CSV fields and nine JSON documents; 28 fixtures; all 37 frozen dependencies and original files unchanged; no source network"
     },
     "remote_release": {
       "state": "unknown",
@@ -76,5 +77,6 @@
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_account_not_task_consumption": true
-  }
+  },
+  "replay_receipt_sha256": "9771caed1a3dbbafaf6ea43f8ce463a2260ba6b4a48d0df0c07f5ea82f060fbf"
 }

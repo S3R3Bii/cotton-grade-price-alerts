@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "exact_csv_fields_including_headers": 10011319,
+  "json_documents": 9,
+  "finite_fixtures": 28,
+  "frozen_dependencies": 37,
+  "original_files_unchanged": true,
+  "network_during_replay": false,
+  "scope": "Committed full-history clone; path-only input sandbox; separately regenerated case outputs; exact fields/JSON content and fresh export hashes; no original workbook recapture"
+}
