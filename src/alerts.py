@@ -7,9 +7,16 @@ def compare(old, new, rule):
     """Return a fractional change or an unavailable-identity reason."""
     if rule not in {"grade_blind", "quality_matched"}:
         raise ValueError("Unknown comparison rule")
+    if any(
+        not old.get(k)
+        for k in ("market", "date", "unit", "other_quality_convention", "quality")
+    ):
+        return None, "baseline_identity_unavailable"
     try:
+        if isinstance(old.get("price"), (float, bool)):
+            return None, "invalid_baseline"
         base = Fraction(old["price"])
-    except (ValueError, TypeError, ZeroDivisionError):
+    except (KeyError, ValueError, TypeError, ZeroDivisionError):
         return None, "invalid_baseline"
     if base <= 0:
         return None, "invalid_baseline"
@@ -28,8 +35,10 @@ def compare(old, new, rule):
             "quality_unavailable" if rule == "quality_matched" else "empty_snapshot"
         )
     try:
+        if any(isinstance(r.get("price"), (float, bool)) for r in candidates):
+            return None, "invalid_price"
         values = [Fraction(r["price"]) for r in candidates]
-    except (ValueError, TypeError, ZeroDivisionError):
+    except (KeyError, ValueError, TypeError, ZeroDivisionError):
         return None, "invalid_price"
     if any(v < 0 for v in values):
         return None, "invalid_price"
