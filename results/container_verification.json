@@ -1,0 +1,90 @@
+{
+  "status": "pass",
+  "scope": "Original numerical receipts retained; current byte hashes separated from as-run JSON line endings",
+  "phases": [
+    {
+      "phase": "development",
+      "status": "pass",
+      "files": [
+        {
+          "file": "by_market_case.csv",
+          "recorded_runtime_sha256": "ff70db4ab68c845b4616f7e595aa429565e965d9aaac05be51094aaab1c709d6",
+          "current_canonical_sha256": "ff70db4ab68c845b4616f7e595aa429565e965d9aaac05be51094aaab1c709d6",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "by_month.csv",
+          "recorded_runtime_sha256": "1c688e40cb329c8b45c2c6b5e8ba1b4c415b6469dd169de0222cb13dd18f2fa0",
+          "current_canonical_sha256": "1c688e40cb329c8b45c2c6b5e8ba1b4c415b6469dd169de0222cb13dd18f2fa0",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "cases.csv.gz",
+          "recorded_runtime_sha256": "9517a629328cdda2b57eb42d4f799a2e673b47a8ff5ee2301fa0166cc99d1581",
+          "current_canonical_sha256": "9517a629328cdda2b57eb42d4f799a2e673b47a8ff5ee2301fa0166cc99d1581",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "source_premiums.csv",
+          "recorded_runtime_sha256": "63aefd2380a02bb4a91cbb7bcfbc8e6c878ec5820f0dcad109d3676a3ed3d1cd",
+          "current_canonical_sha256": "63aefd2380a02bb4a91cbb7bcfbc8e6c878ec5820f0dcad109d3676a3ed3d1cd",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "summary.csv",
+          "recorded_runtime_sha256": "0ecc5905c9b67290f9736aae0e690ab21f80c04ef007af474ce3b13fed0420fd",
+          "current_canonical_sha256": "0ecc5905c9b67290f9736aae0e690ab21f80c04ef007af474ce3b13fed0420fd",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "summary.json",
+          "recorded_runtime_sha256": "a680c1a7b38b6440924200659445ff84e4a8d80c68f282db18bcf699266ff14e",
+          "current_canonical_sha256": "ffd2701e1a43dbe6007284e24e8735594bc6e2968772217faf54a75918d32cda",
+          "status": "JSON_line_endings_only_runtime_hash_retained"
+        }
+      ]
+    },
+    {
+      "phase": "held",
+      "status": "pass",
+      "files": [
+        {
+          "file": "by_market_case.csv",
+          "recorded_runtime_sha256": "4775d6f65926f3a27d9ea5b4e2f5935612ee1345f20d9b7805390114cdc56ca7",
+          "current_canonical_sha256": "4775d6f65926f3a27d9ea5b4e2f5935612ee1345f20d9b7805390114cdc56ca7",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "by_month.csv",
+          "recorded_runtime_sha256": "812dc3f6bc629e7323e87ae06015211ad7950311dd820c2e35fdaf3136a66ac6",
+          "current_canonical_sha256": "812dc3f6bc629e7323e87ae06015211ad7950311dd820c2e35fdaf3136a66ac6",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "cases.csv.gz",
+          "recorded_runtime_sha256": "bc34df3bf01a5c1d26211aee4430204d65e3091439d3ff0d422534f1b8f0df5b",
+          "current_canonical_sha256": "bc34df3bf01a5c1d26211aee4430204d65e3091439d3ff0d422534f1b8f0df5b",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "source_premiums.csv",
+          "recorded_runtime_sha256": "74f471004b8bc089d43c4919ce92cff1a639a72ae4bae139916ef471f1a9f372",
+          "current_canonical_sha256": "74f471004b8bc089d43c4919ce92cff1a639a72ae4bae139916ef471f1a9f372",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "summary.csv",
+          "recorded_runtime_sha256": "6c3e0b295ce024adc6e1461f39ca3e2c5632b56052c0ccb7f350c526b05ce5ec",
+          "current_canonical_sha256": "6c3e0b295ce024adc6e1461f39ca3e2c5632b56052c0ccb7f350c526b05ce5ec",
+          "status": "exact_runtime_bytes"
+        },
+        {
+          "file": "summary.json",
+          "recorded_runtime_sha256": "cd7e8c2eaa132dc29c7ddfa006a838e77d2155a3d0fcd2b52f7b6c12ad5f6a5e",
+          "current_canonical_sha256": "67f69d660b24bd20b80ae2d62ac1586ea5ad748808d3cdf4002c2012c05ec32d",
+          "status": "JSON_line_endings_only_runtime_hash_retained"
+        }
+      ]
+    }
+  ]
+}

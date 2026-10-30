@@ -50,6 +50,8 @@ Report every market/year, identity rule, threshold, expansion state, signed shoc
 
 ## Checks, presentation and release
 
+Post-capture implementation bindings and prior exposures are recorded in [SOURCE_BINDING.md](SOURCE_BINDING.md). They clarify native-cell readers and exact year-specific market labels before any benchmark; all source eligibility, case definitions and thresholds remain fixed.
+
 Independently reconcile original OOXML selected cells with the projection reader, then independently reconstruct key collapse, unit/quality pairs, source coverage, every authored case and confusion/abstention metric without analysis-helper imports. Fixtures cover date/native-type handling, unit mismatch, conflicting copies, null versus zero, exact threshold boundaries, negative and positive changes, grade addition, missing/changed identities, false alarms, missed alerts and undefined precision. Preserve failures and one targeted correction rather than looping or changing criteria.
 
 Replay into separate outputs in a full-history local clone, compare exact fields/JSON and preserve all frozen original bytes. Three original figures and an independent manuscript must distinguish unaltered quotations, authored cases and unmeasured market performance. Check displayed arithmetic, actual geometry/hashes and all rendered pages. Start remote candidate checks only after the full artifact package exists, then verify exact candidate/main CI, matching trees, tag and metadata. No operational precision, trading recommendation, measured financial saving, physical-grade revision, new estimator, scientific-priority, deployment or peer-review claim. Independent program manuscript is public only after checks; Azure and other formal-publication projects remain private.

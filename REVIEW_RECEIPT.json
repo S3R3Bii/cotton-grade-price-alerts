@@ -1,0 +1,82 @@
+{
+  "timestamp_utc": "2026-10-30T18:47:52.588332+00:00",
+  "version": "Local ready candidate before exact remote CI",
+  "status": "LOCAL_ACCEPTANCE_PASS_REMOTE_RELEASE_PENDING",
+  "grade": 4,
+  "criteria": {
+    "source_rights_and_originals": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "Three original byte hashes; 360999 independent selected-cell/native-token conditions; attributed minimal spot facts only"
+    },
+    "input_meaning_and_coverage": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "99416 independent checks; 21 fixed native market/year groups; missing not zero; no target key conflicts"
+    },
+    "fixed_design_and_arithmetic": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "37 committed dependency hashes before later summaries; 3584316 development and 6284563 later conditions; all rules/thresholds retained; authored labels disclosed"
+    },
+    "figures_and_paper": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "Three inspected figures; 33 values, 180 actual SVG coordinates, 9 export hashes; 91 source-bound manuscript displays, 197 checks; all six rendered pages inspected; no final TeX layout/glyph warnings"
+    },
+    "implementation": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "28 finite fixtures and exact CLI authored examples; unavailable identity distinct from negative decision"
+    },
+    "replay": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "CPython 3.10.11 and 3.12.14: exact comparison of 10011319 CSV fields and nine JSON documents; 28 fixtures; all 37 frozen dependencies and original files unchanged; no source network"
+    },
+    "remote_release": {
+      "state": "unknown",
+      "evidence": "Candidate/main Linux checks, tested/merged tree and remote annotated tag pending"
+    }
+  },
+  "prior_failures_retained": [
+    "Initial market header binding corrected before any scores",
+    "Unchanged-index refresh and committed-manifest guard stopped premature held attempt before any score",
+    "PDF text qualifier used fi ligature; Unicode NFKC normalization repaired checker with all numbers/manuscript unchanged",
+    "Matplotlib SVG trailing spaces failed Git whitespace gate; canonical LF/trimmed XML preserves all coordinates, PDF/PNG bytes and paper bytes; source values and SVG geometry freshly checked."
+  ],
+  "representation_note": "Original runtime receipts retained; current canonical JSON byte hashes independently reconciled as LF/CRLF only",
+  "reviewed_files_sha256": {
+    "paper/main.tex": "7d7209ddbf18ccb6047953082612431bac79797c7f190b2b1e984523e5453bbf",
+    "paper/manuscript.pdf": "422f8ce1e1b468529f66b5e65058017a2e25e53991a376a169bf5187d9cfa958",
+    "paper/images/alert_errors.pdf": "b1cc18b97febe7cc76349e90e476853caf0025c53302ab6a6a7faceae2b6eb67",
+    "paper/images/composition_effects.pdf": "7484a94936043f5fb8675866d3a888099884ff2366d7525cf133d054b6decad3",
+    "paper/images/identity_coverage.pdf": "90411be21d5c2e024778a6da5d9c0cb40227dc12a2c736f40d6088f7c64f764b"
+  },
+  "material_limits": [
+    "Authored finite scenarios, not real anomaly prevalence or live precision",
+    "Matched perfect normal-key result follows from construction, not empirical detection superiority",
+    "Quotes share markets/dates and are not independent transactions",
+    "No deployment, causal effect, financial saving or peer review"
+  ],
+  "budget": {
+    "round": 3,
+    "maximum_rounds": 3,
+    "active_review_limit_minutes": 45,
+    "review_tool_call_limit": 60,
+    "exact_nested_review_call_count": "not fully instrumented; grouped calls and actual checks retained",
+    "wall_time_is_not_active_review_or_quota": true,
+    "elapsed_wall_minutes_since_capture": 19.59
+  },
+  "usage": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-30 18:43 UTC",
+    "window_minutes": 10080,
+    "used_percent": 34,
+    "remaining_percent": 66,
+    "reset_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_account_not_task_consumption": true
+  },
+  "replay_receipt_sha256": "9771caed1a3dbbafaf6ea43f8ce463a2260ba6b4a48d0df0c07f5ea82f060fbf"
+}

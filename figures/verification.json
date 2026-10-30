@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "figures": 3,
+  "value_checks": 33,
+  "actual_svg_coordinate_checks": 180,
+  "export_hash_checks": 9,
+  "limits": "Finite source-value/geometry/hash checks; rendered figures also require visual inspection"
+}

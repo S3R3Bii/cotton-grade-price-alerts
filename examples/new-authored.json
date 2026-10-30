@@ -1,0 +1,18 @@
+[
+  {
+    "market": "Southeast",
+    "date": "2024-01-02",
+    "unit": "cents_per_pound",
+    "other_quality_convention": "AUTHORED_example_only",
+    "quality": "41/4/34",
+    "price": "80"
+  },
+  {
+    "market": "Southeast",
+    "date": "2024-01-02",
+    "unit": "cents_per_pound",
+    "other_quality_convention": "AUTHORED_example_only",
+    "quality": "31/3/36",
+    "price": "88"
+  }
+]

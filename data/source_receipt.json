@@ -1,0 +1,89 @@
+{
+  "source_workbooks": [
+    {
+      "marketing_year": "2022-2023",
+      "file": "cotton-2022-2023.xlsx",
+      "url": "https://apps.ams.usda.gov/Cotton/HistoricalUplandPrices/2022-2023%20Price%20file.xlsx",
+      "status": 200,
+      "bytes": 45129068,
+      "sha256": "b6d1494cc185aea57f3a25ac73f4c888b5582300112355b588195c22baf5edac",
+      "started_utc": "2026-10-30T18:26:10.890144+00:00",
+      "completed_utc": "2026-10-30T18:26:28.316911+00:00",
+      "protocol_commit": "eb549dfe750318ad0526ab0422a2d5bf70410b5e",
+      "python": "3.12.14",
+      "sheets": [
+        "Basis and Bales",
+        "C-L-S",
+        "Other",
+        "Futures",
+        "Tenderable",
+        "Sheet1"
+      ],
+      "counts": {
+        "all_grid_rows": 1019655,
+        "exact_grade_matches": 3984,
+        "source_eligible": 3486,
+        "unexpected_market": 498
+      },
+      "grid_headline_base_checks": 1743
+    },
+    {
+      "marketing_year": "2023-2024",
+      "file": "cotton-2023-2024.xlsx",
+      "url": "https://apps.ams.usda.gov/Cotton/HistoricalUplandPrices/2023-2024%20Price%20file.xlsx",
+      "status": 200,
+      "bytes": 44911026,
+      "sha256": "48339f6a1ec1fab71ebbd54040d15b3705f7e425e67da08e961fb69ca9a34fbf",
+      "started_utc": "2026-10-30T18:26:28.333932+00:00",
+      "completed_utc": "2026-10-30T18:26:45.980338+00:00",
+      "protocol_commit": "eb549dfe750318ad0526ab0422a2d5bf70410b5e",
+      "python": "3.12.14",
+      "sheets": [
+        "Basis and Bales",
+        "C-L-S",
+        "Other",
+        "Futures",
+        "Tenderable",
+        "FSAPrices"
+      ],
+      "counts": {
+        "all_grid_rows": 1031940,
+        "exact_grade_matches": 4032,
+        "source_eligible": 3528,
+        "unexpected_market": 504
+      },
+      "grid_headline_base_checks": 1764
+    },
+    {
+      "marketing_year": "2024-2025",
+      "file": "cotton-2024-2025.xlsx",
+      "url": "https://apps.ams.usda.gov/Cotton/HistoricalUplandPrices/2024-2025%20Price%20file.xlsx",
+      "status": 200,
+      "bytes": 44507711,
+      "sha256": "0b8893bf45be4a55d04fd5771db8b04214e83fbe4fe7522fa7d6e13771237ea8",
+      "started_utc": "2026-10-30T18:26:45.997851+00:00",
+      "completed_utc": "2026-10-30T18:27:01.776534+00:00",
+      "protocol_commit": "eb549dfe750318ad0526ab0422a2d5bf70410b5e",
+      "python": "3.12.14",
+      "sheets": [
+        "Basis and Bales",
+        "C-L-S",
+        "Other",
+        "Futures",
+        "Tenderable",
+        "FSAPrices"
+      ],
+      "counts": {
+        "all_grid_rows": 1027845,
+        "exact_grade_matches": 4016,
+        "source_eligible": 3514,
+        "unexpected_market": 502
+      },
+      "grid_headline_base_checks": 1757
+    }
+  ],
+  "projection_sha256": "68f49e0086d90b7e49bb1fbb2cc80262f4f52616d46aa62f21f4fa070a7f33fc",
+  "rows": 12032,
+  "price_semantics": "Native Physical Price cents/lb; no rounding or reconstruction",
+  "rights_scope": "Minimal attributed USDA spot facts; original workbook and ICE data excluded"
+}
