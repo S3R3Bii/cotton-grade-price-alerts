@@ -1,0 +1,17 @@
+[
+  {
+    "marketing_year": "2022-2023",
+    "file": "cotton-2022-2023.xlsx",
+    "url": "https://apps.ams.usda.gov/Cotton/HistoricalUplandPrices/2022-2023%20Price%20file.xlsx"
+  },
+  {
+    "marketing_year": "2023-2024",
+    "file": "cotton-2023-2024.xlsx",
+    "url": "https://apps.ams.usda.gov/Cotton/HistoricalUplandPrices/2023-2024%20Price%20file.xlsx"
+  },
+  {
+    "marketing_year": "2024-2025",
+    "file": "cotton-2024-2025.xlsx",
+    "url": "https://apps.ams.usda.gov/Cotton/HistoricalUplandPrices/2024-2025%20Price%20file.xlsx"
+  }
+]
