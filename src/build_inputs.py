@@ -153,7 +153,7 @@ def main():
         ),
         source_reasons=dict(reasons),
         sha256={
-            str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest()
+            p.relative_to(ROOT).as_posix(): hashlib.sha256(p.read_bytes()).hexdigest()
             for p in sorted((ROOT / "data").glob("*.csv"))
         },
     )

@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "checks": 99416,
+  "independent_method": "SQLite full-key grouping and Decimal sign/finite checks; independent coverage enumeration",
+  "paired_days": 5264,
+  "market_year_groups": 21,
+  "gate": "At least 100 paired quote-days in every exact native market/year",
+  "sha256": {
+    "data/coverage.csv": "2324e009d14e89269c13d9d83ca56fe5222ffdb20eba08d221e26e162985d3dd",
+    "data/pair_ledger.csv": "92271753d448f3f31b7b16fde5e78d004cd4a38440a32d05ecb0932df9c600d0",
+    "data/pairs.csv": "f3a851b4574c26bf4f80ec67d53e283431971bf86e3eba6a1437975700f2d891",
+    "data/quote_key_ledger.csv": "0565159e07c9053df509e05dd8b78bf0fcd52258e27f8da4aaa07862c0e2b885"
+  }
+}

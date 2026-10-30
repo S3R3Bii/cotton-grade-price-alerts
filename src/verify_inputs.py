@@ -31,6 +31,16 @@ def main():
         (ROOT / "data/market_bindings.json").read_text(encoding="utf-8")
     )
     checks = 0
+    for record in raw:
+        start, end = record["marketing_year"].split("-")
+        assert start + "-08-01" <= record["date"] < end + "-08-01"
+        assert record["unit"] == "cents_per_pound"
+        assert record["reason"] == (
+            "source_eligible"
+            if record["market"] in bindings[record["marketing_year"]]
+            else "unexpected_market"
+        )
+        checks += 3
     valid = {}
     expected_keys = {}
     keys = connection.execute(
@@ -178,7 +188,7 @@ def main():
         market_year_groups=21,
         gate="At least 100 paired quote-days in every exact native market/year",
         sha256={
-            str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest()
+            p.relative_to(ROOT).as_posix(): hashlib.sha256(p.read_bytes()).hexdigest()
             for p in sorted((ROOT / "data").glob("*.csv"))
         },
     )

@@ -1,0 +1,33 @@
+{
+  "status": "pass",
+  "checks": 360999,
+  "readers": [
+    "Openpyxl read_only original rows",
+    "independent stdlib OOXML native selected numeric tokens"
+  ],
+  "sources": [
+    {
+      "file": "cotton-2022-2023.xlsx",
+      "selected_rows": 3984,
+      "all_grid_rows": 1019655,
+      "sha256": "b6d1494cc185aea57f3a25ac73f4c888b5582300112355b588195c22baf5edac"
+    },
+    {
+      "file": "cotton-2023-2024.xlsx",
+      "selected_rows": 4032,
+      "all_grid_rows": 1031940,
+      "sha256": "48339f6a1ec1fab71ebbd54040d15b3705f7e425e67da08e961fb69ca9a34fbf"
+    },
+    {
+      "file": "cotton-2024-2025.xlsx",
+      "selected_rows": 4016,
+      "all_grid_rows": 1027845,
+      "sha256": "0b8893bf45be4a55d04fd5771db8b04214e83fbe4fe7522fa7d6e13771237ea8"
+    }
+  ],
+  "source_projection_sha256": "68f49e0086d90b7e49bb1fbb2cc80262f4f52616d46aa62f21f4fa070a7f33fc",
+  "limitations": [
+    "These are quotation-grid facts, not transactions or independent market anomalies.",
+    "All original source bytes retained; no workbook edit, recalculation or export."
+  ]
+}

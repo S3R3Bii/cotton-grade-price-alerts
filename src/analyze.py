@@ -118,6 +118,9 @@ def summarize(counts, keys, fields):
 
 def run(phase, dest):
     if phase == "held":
+        from freeze_proof import verify
+
+        verify()
         frozen = json.loads(
             (ROOT / "DEPENDENCY_FREEZE.json").read_text(encoding="utf-8")
         )
