@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "phase": "development",
+  "checks": 3584316,
+  "case_rows": 252504,
+  "source_pairs": 1002,
+  "method": "Independent exact Fraction formulas and full-grid enumeration; no analysis/helper imports",
+  "sha256": {
+    "by_market_case.csv": "ff70db4ab68c845b4616f7e595aa429565e965d9aaac05be51094aaab1c709d6",
+    "by_month.csv": "1c688e40cb329c8b45c2c6b5e8ba1b4c415b6469dd169de0222cb13dd18f2fa0",
+    "cases.csv.gz": "9517a629328cdda2b57eb42d4f799a2e673b47a8ff5ee2301fa0166cc99d1581",
+    "source_premiums.csv": "63aefd2380a02bb4a91cbb7bcfbc8e6c878ec5820f0dcad109d3676a3ed3d1cd",
+    "summary.csv": "0ecc5905c9b67290f9736aae0e690ab21f80c04ef007af474ce3b13fed0420fd",
+    "summary.json": "a680c1a7b38b6440924200659445ff84e4a8d80c68f282db18bcf699266ff14e"
+  }
+}

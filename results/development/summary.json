@@ -1,0 +1,14 @@
+{
+  "phase": "development",
+  "paired_quote_days": 1002,
+  "authored_cases": 252504,
+  "rule_count": 2,
+  "threshold_count": 3,
+  "shock_count": 7,
+  "expansion_states": 2,
+  "identity_modes": 3,
+  "selected_policy": null,
+  "learned_parameters": null,
+  "scope": "Equally enumerated authored cases, not natural anomaly prevalence or operational precision",
+  "input_sha256": "f3a851b4574c26bf4f80ec67d53e283431971bf86e3eba6a1437975700f2d891"
+}
